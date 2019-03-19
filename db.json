@@ -1,0 +1,31 @@
+{
+  "nama": [
+    {
+      "id": "1",
+      "nama depan": "muchlas",
+      "nama belakang": "alfiyan",
+      "nilai ujian": "90"
+    },
+    {
+      "id": "2",
+      "nama depan": "abdul",
+      "nama belakang": "madjid",
+      "nilai ujian": "79"
+    },
+    {
+      "id": "3",
+      "nama depan": "muhammad",
+      "nama belakang": "ali",
+      "nilai ujian": "70"
+    },
+    {
+      "id": "4",
+      "nama depan": "ahmad",
+      "nama belakang": "syahid",
+      "nilai ujian": "80"
+    },
+    {
+      "id": "It23agL"
+    }
+  ]
+}
